@@ -24,5 +24,5 @@ I'm a full stack developer, i am currently studying the last semester of my degr
 ## Streaks
 
 ![Fher03's Stats](https://github-readme-stats.vercel.app/api?username=Fher03&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fher03&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fher03&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 ![Fher03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fher03&theme=dracula&show_icons=true&hide_border=true&layout=compact)
